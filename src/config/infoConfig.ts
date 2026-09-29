@@ -3,19 +3,19 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = 'cc'
+export const headline = 'A ordinary human.'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
+  "So long as men can breathe or eyes can see, So long lives this, and this gives life to thee."
 export const email = 'tong.hu@scls-sh.org'
 export const githubUsername = 'derekhut'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = 'Shall I compare thee to a summer\'s day?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer\'s lease hath all too short a date; ",
+  'Sometime too hot the eye of heaven shines, And often is his gold complexion dimmed, And every fair from fair sometime declines, By chance, or nature\'s changing course untrimmed:',
+  "But thy eternal summer shall not fade, Nor lose possession of that fair thou ow\'st, Nor shall death brag thou wander'st in his shade, When in eternal lines to time thou grow\'st,",
 ]
 
 // blog
